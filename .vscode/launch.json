@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ayush",
+            "request": "launch",
+            "mainClass": "ayush",
+            "projectName": "Java Programs_cdace6"
+        },
+        {
+            "type": "java",
             "name": "RightTriangleFlipedRight",
             "request": "launch",
             "mainClass": "Patterns.RightTriangleFlipedRight",
