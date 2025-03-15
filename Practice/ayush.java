@@ -7,7 +7,7 @@ public class ayush{
         System.out.println("Enter the value of variable b: ");
         int b = scanner.nextInt();
         char c = scanner.next().charAt(0);
-        String d = scanner.nextLine(); 1
+        String d = scanner.nextLine();
         // int c= a+b;
         System.out.printf("The sum: %.2f",(double)(a+b)/2);
 

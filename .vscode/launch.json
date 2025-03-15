@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RightTriangleFlipedRight",
+            "request": "launch",
+            "mainClass": "Patterns.RightTriangleFlipedRight",
+            "projectName": "Java Programs_cdace6"
+        },
+        {
+            "type": "java",
+            "name": "RightTriangleFliped",
+            "request": "launch",
+            "mainClass": "Patterns.RightTriangleFliped",
+            "projectName": "Java Programs_cdace6"
+        },
+        {
+            "type": "java",
+            "name": "RightTriangle",
+            "request": "launch",
+            "mainClass": "Patterns.RightTriangle",
+            "projectName": "Java Programs_cdace6"
+        },
+        {
+            "type": "java",
+            "name": "HollowRectangle",
+            "request": "launch",
+            "mainClass": "Patterns.HollowRectangle",
+            "projectName": "Java Programs_cdace6"
+        },
+        {
+            "type": "java",
+            "name": "SolidRectangle",
+            "request": "launch",
+            "mainClass": "Patterns.SolidRectangle",
+            "projectName": "Java Programs_cdace6"
+        },
+        {
+            "type": "java",
+            "name": "ButterflyPattern",
+            "request": "launch",
+            "mainClass": "Patterns.ButterflyPattern",
+            "projectName": "Java Programs_cdace6"
+        },
+        {
+            "type": "java",
+            "name": "ButterflyPattern",
+            "request": "launch",
+            "mainClass": "ButterflyPattern",
+            "projectName": "Java Programs_cdace6"
+        },
+        {
+            "type": "java",
             "name": "Parsing",
             "request": "launch",
             "mainClass": "Parsing",
