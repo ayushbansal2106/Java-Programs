@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Leapyear",
+            "request": "launch",
+            "mainClass": "Test.Leapyear",
+            "projectName": "Java Programs_fde9a6b3"
+        },
+        {
+            "type": "java",
+            "name": "Car",
+            "request": "launch",
+            "mainClass": "Test.Car",
+            "projectName": "Java Programs_fde9a6b3"
+        },
+        {
+            "type": "java",
+            "name": "BinaryTriangle",
+            "request": "launch",
+            "mainClass": "Patterns.BinaryTriangle",
+            "projectName": "Java Programs_1c57c8d4"
+        },
+        {
+            "type": "java",
+            "name": "FloydTriangle",
+            "request": "launch",
+            "mainClass": "Patterns.FloydTriangle",
+            "projectName": "Java Programs_1c57c8d4"
+        },
+        {
+            "type": "java",
+            "name": "RightTriangleIntFlipedUp",
+            "request": "launch",
+            "mainClass": "Patterns.RightTriangleIntFlipedUp",
+            "projectName": "Java Programs_1c57c8d4"
+        },
+        {
+            "type": "java",
+            "name": "RightTriangleInt",
+            "request": "launch",
+            "mainClass": "Patterns.RightTriangleInt",
+            "projectName": "Java Programs_1c57c8d4"
+        },
+        {
+            "type": "java",
+            "name": "Leapyear",
+            "request": "launch",
+            "mainClass": "Test.Leapyear",
+            "projectName": "Java Programs_1c57c8d4"
+        },
+        {
+            "type": "java",
+            "name": "Student",
+            "request": "launch",
+            "mainClass": "Test.Student",
+            "projectName": "Java Programs_1c57c8d4"
+        },
+        {
+            "type": "java",
             "name": "ayush",
             "request": "launch",
             "mainClass": "ayush",
