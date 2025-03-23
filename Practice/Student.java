@@ -1,6 +1,6 @@
 //write a java program to create a class student with two use case variable name and age, and create 3 object of this class and print the values.
 
-package Test;
+
 import java.util.Scanner;
 
 public class Student {

@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "Java Programs_fde9a6b3"
+        },
+        {
+            "type": "java",
             "name": "Leapyear",
             "request": "launch",
             "mainClass": "Test.Leapyear",

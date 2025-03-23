@@ -1,6 +1,6 @@
 //write a java program to create a class car with 3 instance variables Brand name, colour, mileage and create a 2 object of this class and print the value.
 
-package Test;
+
 
 public class Car {
     String brand_name;
