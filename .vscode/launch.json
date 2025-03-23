@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FibonacciNumbers2",
+            "request": "launch",
+            "mainClass": "FibonacciNumbers2",
+            "projectName": "Java Programs_fde9a6b3"
+        },
+        {
+            "type": "java",
             "name": "Factorial",
             "request": "launch",
             "mainClass": "Factorial",
